@@ -28,3 +28,6 @@ An enterprise-grade dashboard designed to analyze 8,800+ Netflix records and pro
    ```bash
    git clone [https://github.com/Vishesh-Redhu/Netflix-Analysis-Dashboard.git](https://github.com/Vishesh-Redhu/Netflix-Analysis-Dashboard.git)
    cd netflix-analytics
+
+## 🌐 Streamlit App
+      https://netflix-analysis-dashboard-007.streamlit.app/
