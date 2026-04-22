@@ -75,7 +75,7 @@ if df is not None:
     cosine_sim = compute_similarity(df)
 
 # --- 4. SIDEBAR FILTERS ---
-st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg", width=140)
+st.sidebar.image("Netflix_Symbol_RGB.png", width=140)
 st.sidebar.markdown("### FILTERS")
 
 content_type = st.sidebar.multiselect("TYPE", options=df["type"].unique(), default=df["type"].unique())
